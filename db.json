@@ -1,6 +1,7 @@
-{ "Cuentas" :{ 
-  "NS": " 2345 " , 
+{ "Cuentas_Agua_Potable" :{ 
+  " 2345 "{ 
   "Saldo" :  123  , 
   " Tarifa " : 12.4 
+}
 } 
 } 
