@@ -1,10 +1,10 @@
 { "Cuentas_Agua_Potable" :{ 
   "E2CE689D":{ 
-  "Saldo" :  123  , 
+  "Saldo" : "00011230"  , 
   "Tarifa" : 8.4 
 }
    "C39C8CC5":{ 
-  "Saldo" :  255  , 
+  "Saldo" : "00025500"  , 
   "Tarifa" : 5.2 
 }
 } 
