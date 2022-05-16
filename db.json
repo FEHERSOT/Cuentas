@@ -1,5 +1,5 @@
 { "Cuentas" :{ 
-  "Número de serie": " 2345 " , 
+  "NS": " 2345 " , 
   "Saldo" :  123  , 
   " Tarifa " : 12.4 
 } 
