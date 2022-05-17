@@ -1,0 +1,14 @@
+[
+    {
+    "Id": 1,
+    "N_Serie" : "E2CE689D",
+    "Saldo" : "00011230", 
+    "Tarifa" : 8.4 
+    },
+    {
+    "Id" : 2,
+    "N_Serie" : "C39C8CC5",
+    "Saldo" : "00025500"  , 
+    "Tarifa" : 5.2 
+    }
+]
